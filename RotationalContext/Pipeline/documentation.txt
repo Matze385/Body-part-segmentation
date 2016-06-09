@@ -1,0 +1,8 @@
+1.stage
+
+N_TREES = 600
+Sigmas Gaussian Smoothing = [0.3, 1.0, 1.6, 3.5, 5.0, 10.0]
+Sigmas LoG = [0.3, 1.0, 1.6, 3.5, 5.0, 10.0]
+Sigmas Gaussian Gradient Magnitude = [0.3, 1.0, 1.6, 3.5, 5.0, 10.0]
+Sigmas Structure Tensor Eigenvalues = [0.3, 1.0, 1.6, 3.5, 5.0, 10.0]
+Sigmas Hessian of Gaussian Eigenvalues = [0.3, 1.0, 1.6, 3.5, 5.0, 10.0]
